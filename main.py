@@ -10,6 +10,5 @@ def main():
       print(f"Помилка під час запуску програми - {error}")
 
 
-
 if __name__ == "__main__":
   main()

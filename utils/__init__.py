@@ -1,7 +1,4 @@
-from .create_doc import create_doc
-# Назар. Импортируем функции из модулей утилит
+from .create_document import create_document
 from .create_folder import create_folder
-from .download_drive_file import download_drive_file
-from .download_file_on_drive import download_file_on_drive
-
-
+from .download_file import download_file
+from .upload_file import upload_file
